@@ -1,0 +1,9 @@
+import javax.swing.*;
+
+public class Uppgift1_6 {
+    public static void main(string[] args) {
+        JOption.showMessageDialog(null,"pang") ;
+        Toolkit.getDefaultToolkit().beep();
+        JOptionPane.showMessageDialog(null,"076-101 52 65");
+    }
+}   
