@@ -1,4 +1,4 @@
-import javax.swing.*;
+	import javax.swing.*;
 /*
 Uppgift 2.1 i boken sida 34
 Skapad 2019 09 13
